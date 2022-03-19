@@ -1,5 +1,7 @@
 <h1 align="center">Hi , I'm Moise Mulungu</h1><h3 align="center">Full-stack Web Developer</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=moise-mulungu&label=Views&color=blue&style=plastic" alt="Moise Mulungu" /></p>
-![Microverse (1)](https://user-images.githubusercontent.com/90564431/159072015-26e2d62c-818e-4f69-b559-250d3f286f6f.png)
+
+###
+![Microverse](https://user-images.githubusercontent.com/90564431/159107624-bcbb4011-97cd-46be-b6ce-d11b7c95d102.png)
 
 
 - I am studying **Full-stack web development** at ![](https://img.shields.io/badge/-Microverse-blueviolet)- 
