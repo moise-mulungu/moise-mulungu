@@ -5,7 +5,8 @@
 
 
 - I am studying **Full-stack web development** at ![](https://img.shields.io/badge/-Microverse-blueviolet)- 
-- Learning new things everyday to become a fully-success remote software developer with the help of ![](https://img.shields.io/badge/-Microverse-blueviolet)- My interests are collaboration and contribution to open-source projects.
+- Learning new things everyday to become a fully-success remote software developer with the help of ![](https://img.shields.io/badge/-Microverse-blueviolet)
+- My interests are collaboration and contribution to open-source projects.
 - Aside from programming,  Like sports especially Basketball ! I love listening to music, and watching fun videos.
 
 ### Languages 
