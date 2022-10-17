@@ -4,7 +4,7 @@
 ![Microverse](https://user-images.githubusercontent.com/90564431/159107624-bcbb4011-97cd-46be-b6ce-d11b7c95d102.png)
 
 
-- I am a **Full-stack web development** completed from ![](https://img.shields.io/badge/-Microverse-blueviolet)- 
+- I am a **Full-stack web development** trained by ![](https://img.shields.io/badge/-Microverse-blueviolet)- 
 - Learning new things everyday to become a fully-success remote software developer with the help of ![](https://img.shields.io/badge/-Microverse-blueviolet)
 - My interests are collaboration and contribution to open-source projects.
 - Aside from programming,  Like sports especially Basketball ! I love listening to music, and watching fun videos.
